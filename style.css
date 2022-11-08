@@ -1,0 +1,92 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.TheApp {
+  background-color: white;
+  padding: 4%;
+}
+.TheApp h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+.TheApp h2 {
+  color: green;
+  font-size: 40px;
+}
+
+.TheApp p {
+  font-size: 16px;
+  color: black;
+  font-weight: 500;
+}
+
+.Icons-Des i {
+  padding: 1%;
+}
+.Clarity {
+  background-color: #f1f1f1;
+  padding-top: 4%;
+}
+
+.Clarity h2 {
+  font-size: 40px;
+  color: red;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  font-weight: bold;
+}
+.Clarity h1 {
+  font-weight: bolder;
+  font-size: 60px;
+}
+.Clarity p {
+  font-size: 16px;
+  color: black;
+  font-weight: 500;
+}
+.Features {
+ 
+  padding: 2%;
+  
+  text-align: center;
+}
+.Features-Style {
+  font-size: 70px;
+  margin-bottom: 0%;
+}
+.Features-Style1 {
+  padding-bottom: 3%;
+}
+.Icons-Style i {
+  font-size: 50px;
+  padding: 2%;
+}
+.Pricing {
+  text-align: center;
+}
+.Price-details {
+  text-align: center;
+}
+.Price-details p {
+  padding: 2%;
+  margin: 0%;
+
+}
+.Basic {
+  padding: 3%;
+  background-color: rgb(104, 103, 103);
+  color: white;
+}
+.Premium {
+  padding: 3%;
+  background-color: orangered;
+  color: white;
+}
+.Premium-1 {
+  padding: 3%;
+  background-color: lightgray;
+}
+.Price-Size{
+    color: darkgray;
+    font-size: 35px;
+}
