@@ -84,9 +84,21 @@ body {
 }
 .Premium-1 {
   padding: 3%;
-  background-color: lightgray;
+  background-color: #f1f1f1;
 }
 .Price-Size{
     color: darkgray;
     font-size: 35px;
+}
+.Footer{
+  background-color: #f1f1f1;
+  padding: 2%;
+  text-align: center;
+}
+.Footer p{
+  padding: 1%;
+}
+.Footer-Icons i{
+  padding: 2px;
+  font-size: 23px;
 }
